@@ -1,4 +1,5 @@
-# spatio-temporal-paradox-of-2d-priors
+# Spatio-Temporal Paradox of 2D Priors: Evidential
+Feature Gating for Robust 3D Occupancy Prediction
 Spatio-Temporal Paradox of 2D Priors: Evidential Feature Gating for Robust 3D Occupancy Prediction
 (EAEEIE 2026 — Code updating soon)
 We present the Evidential Feature Gate (EFG), a novel framework designed to resolve the "Spatio-Temporal Paradox" in vision-centric 3D semantic occupancy prediction
